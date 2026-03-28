@@ -31,18 +31,31 @@
 ## 🗂️ Project Structure
 
 FUTURE_DS_01/
+
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── data/
+
 │ └── Sample - Superstore.csv
+
 ├── screenshots/
+
 │ ├── overview.png
+
 │ ├── revenue.png
+
 │ ├── products.png
+
 │ ├── categories.png
+
 │ ├── regions.png
+
 │ └── insights.png
 
 
@@ -50,7 +63,7 @@ FUTURE_DS_01/
 
 ## 🚀 Live Dashboard
 
-👉 [Click Here to View Live App](YOUR_STREAMLIT_LINK_HERE)
+👉 [Click Here to View Live App]((https://futureds01.streamlit.app/))
 
 ---
 
