@@ -63,7 +63,7 @@ FUTURE_DS_01/
 
 ## 🚀 Live Dashboard
 
-👉 [Click Here to View Live App]( https://futureds01.streamlit.app/ )
+👉 [[Click Here to View Live App](https://futureds01.streamlit.app/)](YOUR_STREAMLIT_LINK_HERE)
 
 ---
 
